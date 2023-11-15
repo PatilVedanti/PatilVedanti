@@ -2,8 +2,8 @@
 <div>
 	
 - 👋 Hi, I’m Vedanti Patil
-- 👀 I’m interested in ... Coding, Music, Trekking, Travelling, trying new food and new experiences .
-- 🌱 I’m currently purseing ... Bachelors of Engineering in Information technology.
+- 👀 I’m interested in ... Coding, Music, Trekking, Travelling, trying new food and new experiences.
+- 🌱 I’m currently pursuing ... Bachelors of Engineering in Information technology.
 - 💞️ I’m looking to collaborate on ... Web Development.
 - 📫 How to reach me ...  www.linkedin.com/in/vedanti-patil
 </div>
