@@ -1,9 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PatilVedanti&layout=compact&theme=dark"  width="450">
+		<img align="right" src="https://github-readme-stats.vercel.app/api?username=PatilVedanti&layout=compact&theme=dark"  width="450">
 <div>
 	
-- 👋 Hi, I’m Vedanti Patil
+- 👋 Hi, I’m Vedanti Patil - Bachelor of Engineering in Information Technology
 - 👀 I’m interested in ... Coding, Music, Trekking, Travelling, trying new food and new experiences.
-- 🌱 I’m currently pursuing ... Bachelors of Engineering in Information technology.
 - 💞️ I’m looking to collaborate on ... Web Development, Data Analytics and AI
 - 📫 How to reach me ...  www.linkedin.com/in/vedanti-patil
 </div>
