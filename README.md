@@ -73,10 +73,32 @@ Show Image
 </div>
 
 
-📈 Weekly Development Breakdown
+📊 Coding Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PatilVedanti&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405&layout=compact" alt="WakaTime Stats">
 </div>
+<table align="center">
+<tr>
+<td align="center">
+🔥 Current Streak
+15 days of coding
+</td>
+<td align="center">
+⏰ Daily Average
+4-6 hours coding
+</td>
+</tr>
+<tr>
+<td align="center">
+🎯 Focus Area
+Full Stack Development
+</td>
+<td align="center">
+🚀 Favorite Stack
+MERN & Python
+</td>
+</tr>
+</table>
+
 
 🌐 Connect With Me
 <div align="center">
@@ -94,21 +116,3 @@ Show Image
   </a>
 </div>
 
-💡 Fun Fact & Quote
-<div align="center">
-
-"The only way to do great work is to love what you do." - Steve Jobs
-
-🎵 Currently listening to: Coding Playlist on Spotify
-☕ Fuel: Coffee (lots of it!)
-🌟 Motto: Code, Learn, Repeat!
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PatilVedanti&color=F27405&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-Thanks for visiting! Don't forget to ⭐ star some repositories if you find them interesting!
-</div>
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-</div>
