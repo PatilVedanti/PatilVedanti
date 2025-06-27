@@ -58,17 +58,17 @@ Show Image
 
 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/PatilVedanti/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=project1&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 1">
+  <a href="https://github.com/PatilVedanti/Final_Year_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=Final_Year_Project&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 1">
   </a>
-  <a href="https://github.com/PatilVedanti/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=project2&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 2">
+  <a href="https://github.com/PatilVedanti/Portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=Portfolio-website&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 2">
   </a>
-  <a href="https://github.com/PatilVedanti/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=project3&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 3">
+  <a href="https://github.com/PatilVedanti/webDevelopment_Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=WebDevelopment_Projects&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 3">
   </a>
-  <a href="https://github.com/PatilVedanti/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=project4&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 4">
+  <a href="https://github.com/PatilVedanti/DA-DS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatilVedanti&repo=DA-DS&theme=dark&bg_color=0D0D0D&title_color=F27405&text_color=FFF&border_color=F27405" alt="Project 4">
   </a>
 </div>
 
